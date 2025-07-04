@@ -2,7 +2,7 @@ ext {
     extName = 'YuraManga'
     extClass = '.YuraManga'
     themePkg = 'zmanga'
-    baseUrl = 'https://www.yuramanga.my.id'
+    baseUrl = 'https://komiku.org'
     overrideVersionCode = 38
     isNsfw = false
 }
