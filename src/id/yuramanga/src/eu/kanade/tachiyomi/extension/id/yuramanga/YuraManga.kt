@@ -9,7 +9,7 @@ import java.util.Locale
 
 class YuraManga : ZManga(
     "YuraManga",
-    "https://www.yuramanga.my.id",
+    "https://komiku.org",
     "id",
     SimpleDateFormat("dd/MM/yyyy", Locale.ROOT),
 ) {
